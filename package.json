@@ -8,8 +8,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renzojacob/IntelliHRTrack_django.git"
+  },
+  "bugs": {
+    "url": "https://github.com/renzojacob/IntelliHRTrack_django/issues"
+  },
+  "homepage": "https://github.com/renzojacob/IntelliHRTrack_django#readme",
   "description": "",
   "devDependencies": {
-    "tailwindcss": "^4.1.17"
+    "tailwindcss": "^3.4.13"
   }
 }
